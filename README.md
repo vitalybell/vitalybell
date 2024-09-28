@@ -10,3 +10,7 @@
 ![Static Badge](https://img.shields.io/badge/scikitlearn-yellow?logo=%3Cfont%20style%3D%22vertical-align%3A%20inherit%3B%22%3E%3Cfont%20style%3D%22vertical-align%3A%20inherit%3B%22%3E%23F7931E%3C%2Ffont%3E%3C%2Ffont%3E)
 ![Static Badge](https://img.shields.io/badge/Py-TensorFlow-orange?logo=%3Cfont%20style%3D%22vertical-align%3A%20inherit%3B%22%3E%3Cfont%20style%3D%22vertical-align%3A%20inherit%3B%22%3E%23FF6F00%3C%2Ffont%3E%3C%2Ffont%3E)
 ![Static Badge](https://img.shields.io/badge/Py-%20PyTorch-red?logo=%3Cfont%20style%3D%22vertical-align%3A%20inherit%3B%22%3E%3Cfont%20style%3D%22vertical-align%3A%20inherit%3B%22%3E%23EE4C2C%3C%2Ffont%3E%3C%2Ffont%3E)
+![Static Badge](https://img.shields.io/badge/Py-Jango-Green?logo=%23092E20)
+![Static Badge](https://img.shields.io/badge/Py-Sqlalchemy-red?logo=%23D71F00)
+![Static Badge](https://img.shields.io/badge/Py-SQlite-grey?logo=%23003B57)
+
