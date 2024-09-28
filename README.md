@@ -8,4 +8,4 @@
 
 <img alt="Static Badge" src="https://img.shields.io/badge/py-torch-red?logo=%3Cfont%20style%3D%22vertical-align%3A%20inherit%3B%22%3E%3Cfont%20style%3D%22vertical-align%3A%20inherit%3B%22%3E%23EE4C2C%3C%2Ffont%3E%3C%2Ffont%3E">
 
-https://img.shields.io/badge/Tensor-Flou-red?logo=%3Cfont%20style%3D%22vertical-align%3A%20inherit%3B%22%3E%3Cfont%20style%3D%22vertical-align%3A%20inherit%3B%22%3E%23FF6F00%3C%2Ffont%3E%3C%2Ffont%3E
+<img alt="Static Badge" src="https://img.shields.io/badge/Tensor-Flou-red?logo=%3Cfont%20style%3D%22vertical-align%3A%20inherit%3B%22%3E%3Cfont%20style%3D%22vertical-align%3A%20inherit%3B%22%3E%23FF6F00%3C%2Ffont%3E%3C%2Ffont%3E">
